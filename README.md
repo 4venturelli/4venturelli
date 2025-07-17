@@ -11,12 +11,14 @@ Atualmente, concentro meus estudos em Node.js e React, buscando aplicar cada apr
 
 ## ⭐ GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=4venturelli&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=1000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4venturelli&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
+</p>
+
+<p align="center" href="https://github.com/anuraghazra/convoychat">
+  <img height=1000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4venturelli&layout=compact&langs_count=8&card_width=400&theme=radical" />
+</p>
+
 
 ## Tecnologias e linguagens 💻
 
