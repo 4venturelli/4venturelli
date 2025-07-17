@@ -36,16 +36,15 @@ Atualmente, concentro meus estudos em Node.js e React, buscando aplicar cada apr
   Atualmente estou no **5º período do curso de Ciência da Computação**.
 
 
-  Tenho me aprofundado em **JavaScript**, com foco em **React.js** para o front-end e **Node.js** no back-end.  
-  Também venho explorando tecnologias como **Java**, **Spring Boot**, **PostgreSQL**, **MySQL** e **Docker**, aplicando esses conhecimentos em projetos acadêmicos e pessoais que        compõem meu portfólio.
+  Tenho me aprofundado em **JavaScript**, com foco em **React.js** para o front-end e **Node.js** no back-end. Também venho explorando tecnologias como **Java**, **Spring Boot**, **PostgreSQL**, **MySQL** e **Docker**, aplicando esses conhecimentos em projetos acadêmicos e pessoais que compõem meu portfólio.
 
   Acredito que **aprender construindo é o caminho mais eficaz**, por isso busco constantemente transformar teoria em prática e evoluir a cada desafio. 🚀
 
-  Vamos nos conectar? Me envie um e-mail ou me siga no LinkedIn.
+  Sinta-se à vontade para me **enviar um e-mail**, **me seguir no LinkedIn** ou **entrar em contato pelo whatsapp**.
 
 
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="#" title="Email">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:arthur_venturelli@outlooklcom)" alt="Outlook"/></a>
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-venturelli/" alt="LinkedIn"/></a>
