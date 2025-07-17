@@ -33,22 +33,16 @@ Atualmente, concentro meus estudos em Node.js e React, buscando aplicar cada apr
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
   Atualmente estou no **5º período do curso de Ciência da Computação**.
-</p>
 
-<p align="left">
-  Tenho me aprofundado em ** JavaScript **, com foco em **React.js** para o front-end e **Node.js** no back-end.  
+
+  Tenho me aprofundado em **JavaScript**, com foco em **React.js** para o front-end e **Node.js** no back-end.  
   Também venho explorando tecnologias como **Java**, **Spring Boot**, **PostgreSQL**, **MySQL** e **Docker**, aplicando esses conhecimentos em projetos acadêmicos e pessoais que        compõem meu portfólio.
-</p>
 
-<p align="left">
   Acredito que **aprender construindo é o caminho mais eficaz**, por isso busco constantemente transformar teoria em prática e evoluir a cada desafio. 🚀
-</p>
 
-<p align="left">
   Vamos nos conectar? Me envie um e-mail ou me siga no LinkedIn.
-</p>
+
 
 <p align="left">
   <a href="#" title="Gmail">
