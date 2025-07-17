@@ -53,14 +53,13 @@ Atualmente, concentro meus estudos em Node.js e React, buscando aplicar cada apr
 </p>
 
 <br>
-<br>
 <p align="center">
   <img
       src="https://komarev.com/ghpvc/?username=4venturelli&label=visitors&color=blueviolet&style=flat-square"
     /> 
 </p>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4venturelli&theme=redical&point=24292&days=15)
+<!-- ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4venturelli&theme=redical&point=24292&days=15)
 
 <br>
 <br>
@@ -71,8 +70,7 @@ Atualmente, concentro meus estudos em Node.js e React, buscando aplicar cada apr
     />
   </a>
 </p>
-
+--> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7f057f&height=100&section=footer&reversal=true" width="100%" />
-
 
 
