@@ -9,7 +9,7 @@ Atualmente, concentro meus estudos em Node.js e React, buscando aplicar cada apr
 
 * 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
 
-## GitHub Stats
+## ⭐ GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=4venturelli&theme=radical" />
