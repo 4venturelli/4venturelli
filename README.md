@@ -1,17 +1,22 @@
 # Olá, eu sou o Arthur!
-Desenvolvedor em formação, comprometido a criar soluções modernas, funcionais e com propósito.
-Tenho focado meus estudos em Node.js e React, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Ciência da Computação.
+Desenvolvedor em formação, focado em transformar conhecimento em soluções reais e impactantes.
+Atualmente, concentro meus estudos em Node.js e React, buscando aplicar cada aprendizado em projetos práticos que impulsionem minha evolução na Ciência da Computação. Meu compromisso é criar aplicações modernas, funcionais e com propósito claro.
 
 ## Sobre mim
-* 🎓 Graduando em Ciência da Computação na UFSJ
-* 📚 Estudando JavaScript, Node.js, React, e desenvolvimento fullstack
+* 🎓 Graduando em Ciência da Computação na UFSJ.
+* 📚 Estudando JavaScript, Node.js, React, e desenvolvimento fullstack.
 
 
 * 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
 
 ## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4venturelli&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4venturelli&layout=compact&theme=radical&count=6)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=4venturelli&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=1000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4venturelli&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
 
 ## Tecnologias e linguagens 💻
 
@@ -37,7 +42,7 @@ Tenho focado meus estudos em Node.js e React, com o objetivo de transformar cada
 </p>
 
 <p align="left">
-  Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
+  Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível. 🚀
 </p>
 
 <p align="left">
@@ -72,5 +77,6 @@ Tenho focado meus estudos em Node.js e React, com o objetivo de transformar cada
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7f057f&height=100&section=footer&reversal=true" width="100%" />
+
 
 
