@@ -29,15 +29,18 @@ Lá você encontra repositórios com resumos, desafios resolvidos, anotações d
 
 ![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,github)
 
-<p align="left">
-  <span>
-    Atualmente curso o 5º período de Ciência da Computação
-  
-  Tenho me aprofundado em JavaScript, com foco em React.js para o front-end e Node.js para o back-end. Também venho explorando tecnologias como Java, Spring Boot, PostgreSQL, MySQL e     Docker, aplicando esses conhecimentos em projetos acadêmicos e pessoais que fazem parte do meu portfólio.
-  
-  Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
-  
-  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn.
-  </span>
-  <img src="/images/computer.png" width="300" style="margin-left: 20px;"/>
-</p>
+<img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="180" align="right"/>
+
+Atualmente curso o 5º período de Ciência da Computação.
+
+Tenho me aprofundado em JavaScript, com foco em React.js para o front-end e Node.js para o back-end. Também venho explorando tecnologias como Java, Spring Boot, PostgreSQL, MySQL e Docker, aplicando esses conhecimentos em projetos acadêmicos e pessoais que fazem parte do meu portfólio.
+
+Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
+
+Vamos nos conectar? Me envie um e-mail ou me siga no LinkedIn.
+
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:arthur_venturelli@outlooklcom)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-venturelli/)
+
+
+![Contador de Visitantes](https://komarev.com/ghpvc/?username=4venturelli&label=visitors&color=blueviolet&style=for-the-badge)
