@@ -40,7 +40,7 @@ Atualmente, concentro meus estudos em Node.js e React, buscando aplicar cada apr
 
   Acredito que **aprender construindo é o caminho mais eficaz**, por isso busco constantemente transformar teoria em prática e evoluir a cada desafio. 🚀
 
-  Sinta-se à vontade para me **enviar um e-mail**, **me seguir no LinkedIn** ou **entrar em contato pelo whatsapp**.
+  Sinta-se à vontade para me enviar um e-mail, me seguir no LinkedIn ou entrar em contato pelo whatsapp.
 
 
 <p align="left">
