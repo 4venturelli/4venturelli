@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Arthur!
+Desenvolvedor em formação, comprometido a criar soluções modernas, funcionais e com propósito.
+Tenho focado meus estudos em Node.js e React, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Ciência da Computação.
 
-<!--
-**4venturelli/4venturelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+* 🎓 Graduando em Ciência da Computação na UFSJ
+* 📚 Estudando JavaScript, Node.js, React, e desenvolvimento fullstack
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
+
+
+## Tecnologias
+  ![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs)
+
+## Linguagens mais Utilizadas
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4venturelli&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4venturelli&layout=donut&theme=radical)
