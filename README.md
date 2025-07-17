@@ -58,11 +58,13 @@ Atualmente, concentro meus estudos em Node.js e React, buscando aplicar cada apr
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
 </p>
 
-<div align="center">
+<br>
+<br>
+<p align="center">
   <img
       src="https://komarev.com/ghpvc/?username=4venturelli&label=visitors&color=blueviolet&style=flat-square"
     /> 
-</div>
+</p>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4venturelli&theme=redical&point=24292&days=15)
 
