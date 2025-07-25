@@ -4,7 +4,7 @@ Atualmente, concentro meus estudos em Node.js e React, buscando aplicar cada apr
 
 ## Sobre mim
 * 🎓 Graduando em Ciência da Computação na UFSJ.
-* 📚 Estudando JavaScript, Node.js, React, e desenvolvimento fullstack.
+* 📚 Estudando JavaScript, Node.js, React e desenvolvimento fullstack.
 
 
 * 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
