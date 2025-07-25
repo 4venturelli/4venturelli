@@ -20,7 +20,7 @@ Atualmente, concentro meus estudos em Node.js e React, buscando aplicar cada apr
 
 ## Tecnologias e linguagens 💻
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,c)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,c,python)
 
 ### 🚀 Frameworks e bibliotecas
 
